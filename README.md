@@ -5,7 +5,8 @@ t=title s=subtitle c=center e=end formatting 1, 2, 3= Color 1, Color 2, Color 3.
 Colors are entered via input box. 
 Sans=Math Sans SB=Sans Bold IT=Sans Italic IB=Italic Bold F=Fraktur FB=Fraktur Bold SCR=Script SCRB=Script Bold
 
-Eg Sans `n
+Eg 
+Sans 
 T `n
 1
 ABCDEFGHIJKLMNOPQRSTUVWXYZ123456780
