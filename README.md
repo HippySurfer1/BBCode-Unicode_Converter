@@ -1,10 +1,10 @@
 # BBCode-Unicode_Converter
-Mark text with simple commands to convert it to colored, formatted BBCode/Unicode.  
+## Mark text with simple commands to convert it to colored, formatted BBCode/Unicode.  
 
 t=title s=subtitle c=center e=end formatting 1, 2, 3= Color 1, Color 2, Color 3. e=end formatting
 Colors are entered via input box. 
 Sans=Math Sans SB=Sans Bold IT=Sans Italic IB=Italic Bold F=Fraktur FB=Fraktur Bold SCR=Script SCRB=Script Bold
-
+### All the commands need to be on seperate lines to each other and the text. I'll work out the formatting later. 
 Eg 
 
 `Sans 
