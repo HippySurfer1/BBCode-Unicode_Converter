@@ -6,8 +6,8 @@ Colors are entered via input box.
 Sans=Math Sans SB=Sans Bold IT=Sans Italic IB=Italic Bold F=Fraktur FB=Fraktur Bold SCR=Script SCRB=Script Bold
 
 Eg 
-`
-Sans 
+
+``Sans 
 T `n
 1
 ABCDEFGHIJKLMNOPQRSTUVWXYZ123456780
@@ -61,5 +61,6 @@ becomes
 [/color] 
 
  ℋเ℘℘ყ ☮𝓢µ૨ƒε૨🏄️
- `
+ ``
+
 
